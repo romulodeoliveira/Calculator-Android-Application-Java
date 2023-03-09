@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/romulodeoliveira/Blog-API-Spring/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/romulodeoliveira/Blog-API-Spring.svg"></a>
+    <a href="https://github.com/romulodeoliveira/Calculator-Android-Application-Java/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/romulodeoliveira/Calculator-Android-Application-Java.svg"></a>
 </div>
 
 <br>
@@ -13,4 +13,6 @@
 <br>
 Uma simples calculadora com java para Android.
 
-<img src="" align="center">
+<div align="center">
+    <img src="https://github.com/romulodeoliveira/Calculator-Android-Application-Java/blob/main/readmeimg/img1.png">
+</div>
