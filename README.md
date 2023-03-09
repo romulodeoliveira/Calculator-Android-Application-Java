@@ -13,6 +13,8 @@
 <br>
 Uma simples calculadora com java para Android.
 
+<br>
+<br>
 <div align="center">
     <img src="https://github.com/romulodeoliveira/Calculator-Android-Application-Java/blob/main/readmeimg/img1.png">
 </div>
