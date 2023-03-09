@@ -1,13 +1,12 @@
 package com.example.calculator;
 
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.myapplication.R;
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.google.android.material.button.MaterialButton;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
@@ -49,7 +48,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     void assignId(MaterialButton btn, int id) {
         btn = findViewById(id);
-        btn.setOnContextClickListener(this);
+        btn.setOnClickListener(this);
     }
 
     @Override
